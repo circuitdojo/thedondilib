@@ -24,4 +24,7 @@ Please note that this is Version 1 of the board. There are several (reworkable) 
 1. Untuffed U6 to accomodate LED driver above
 1. LED_OE (PWM_CLK) connected to LIS2DH_INT
 
+### License
+
+Released under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International Public License. More info [here](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode).
 
